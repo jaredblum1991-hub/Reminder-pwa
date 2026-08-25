@@ -1,0 +1,9 @@
+{
+  "name": "Mein Tag",
+  "short_name": "Mein Tag",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#f4f5f7",
+  "lang": "de"
+}
